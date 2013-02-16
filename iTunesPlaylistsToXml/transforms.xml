@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<transforms>
+	<!-- The following transforms will be selectable from the iTunes Playlists to Xml application. -->
+	<transform>
+		<fileName>iTunesPlaylists2Xml.xslt</fileName>
+		<notes>A listing of songs sorted by the number of times the song was played.</notes>
+		<url>http://media.jamesrskemp.com/xslt/iTunesPlaylists2Xml.xslt</url>
+	</transform>
+	<transform>
+		<fileName>AlbumName.xslt</fileName>
+		<notes>Listing of songs sorted by album, track, and disc.</notes>
+		<url>http://media.jamesrskemp.com/xslt/AlbumName.xslt</url>
+	</transform>
+	<transform>
+		<fileName>NameArtistAlbumPlay.xslt</fileName>
+		<notes>Listing of songs sorted by song title, artist, album, and number of plays.</notes>
+		<url>http://media.jamesrskemp.com/xslt/NameArtistAlbumPlay.xslt</url>
+	</transform>
+	<!--<transform>
+		<fileName></fileName>
+		<notes></notes>
+		<url></url>
+	</transform>-->
+</transforms>
